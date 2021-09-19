@@ -1,4 +1,4 @@
-public class Greeting {
+public final class Greeting {
 
     private final String name;
 
